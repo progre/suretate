@@ -14,5 +14,14 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/progre/suretate/issues"
+  },
+  "dependencies": {
+    "iconv": "~2.0.7"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-exec": "~0.4.2",
+    "grunt-typescript": "~0.2.4"
   }
 }
